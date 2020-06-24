@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. S. Ashley | Academic</title>
+    <link>/author/w.-s.-ashley/</link>
+      <atom:link href="/author/w.-s.-ashley/index.xml" rel="self" type="application/rss+xml" />
+    <description>W. S. Ashley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>W. S. Ashley</title>
+      <link>/author/w.-s.-ashley/</link>
+    </image>
+    
+    <item>
+      <title>Reduced frequency and size of late-twenty-first-century snowstorms over North America</title>
+      <link>/publication/future-snow-storms/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/future-snow-storms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Climatology of Quasi-Linear Convective Systems and Their Hazards in the United States</title>
+      <link>/publication/qlcs-climo/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/qlcs-climo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A radar-based climatology of mesoscale convective systems in the United States</title>
+      <link>/publication/mcs-climo/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mcs-climo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climatological representation of mesoscale convective systems in the United States</title>
+      <link>/publication/mcs-downscaled-repr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mcs-downscaled-repr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method For Identifying Midlatitude Mesoscale Convective Systems in Radar Mosaics. Part 2: Tracking and Application</title>
+      <link>/publication/mcs-tracking-application/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mcs-tracking-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method for Identifying Midlatitude Mesoscale Convective Systems in Radar Mosaics. Part I: Segmentation and Classification</title>
+      <link>/publication/mcs-segmentation-classification/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mcs-segmentation-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of reservoirs on the climatology of warm-season thunderstorms in Southeast Texas, USA</title>
+      <link>/publication/reservoirs-thunderstorm-initiation/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/reservoirs-thunderstorm-initiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Driving Blind: Weather-related vision hazards and fatal motor vehicle crashes</title>
+      <link>/publication/fog-driving-hazards/</link>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/fog-driving-hazards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of urbanisation on the climatology of thunderstorm initiation</title>
+      <link>/publication/urbanization-thunderstorm-initiation/</link>
+      <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/urbanization-thunderstorm-initiation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

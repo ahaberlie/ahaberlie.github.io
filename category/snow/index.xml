@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snow | Academic</title>
+    <link>/category/snow/</link>
+      <atom:link href="/category/snow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Snow</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Snow</title>
+      <link>/category/snow/</link>
+    </image>
+    
+    <item>
+      <title>Reduced frequency and size of late-twenty-first-century snowstorms over North America</title>
+      <link>/publication/future-snow-storms/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/future-snow-storms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

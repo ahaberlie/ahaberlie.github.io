@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storm Tracking | Academic</title>
+    <link>/tag/storm-tracking/</link>
+      <atom:link href="/tag/storm-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Storm Tracking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Storm Tracking</title>
+      <link>/tag/storm-tracking/</link>
+    </image>
+    
+    <item>
+      <title>Future Changes in High Impact Weather</title>
+      <link>/project/high-impact-weather/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/high-impact-weather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Climatology of Quasi-Linear Convective Systems and Their Hazards in the United States</title>
+      <link>/publication/qlcs-climo/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/qlcs-climo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A radar-based climatology of mesoscale convective systems in the United States</title>
+      <link>/publication/mcs-climo/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mcs-climo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climatological representation of mesoscale convective systems in the United States</title>
+      <link>/publication/mcs-downscaled-repr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mcs-downscaled-repr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method For Identifying Midlatitude Mesoscale Convective Systems in Radar Mosaics. Part 2: Tracking and Application</title>
+      <link>/publication/mcs-tracking-application/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mcs-tracking-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method for Identifying Midlatitude Mesoscale Convective Systems in Radar Mosaics. Part I: Segmentation and Classification</title>
+      <link>/publication/mcs-segmentation-classification/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mcs-segmentation-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
