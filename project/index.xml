@@ -2,30 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Alex Haberlie</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>ahaberlie.github.io/project/</link>
+      <atom:link href="ahaberlie.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/ahaberlie.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>ahaberlie.github.io/project/</link>
     </image>
     
     <item>
-      <title>Future Changes in High Impact Weather</title>
-      <link>/project/high-impact-weather/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/high-impact-weather/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regional Thunderstorm Climatology</title>
-      <link>/project/regional-thunderstorms/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/project/regional-thunderstorms/</guid>
-      <description></description>
+      <title>SeVere Reflectivity IMaGes Dataset (SVRIMG)</title>
+      <link>ahaberlie.github.io/project/svrimg/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>ahaberlie.github.io/project/svrimg/</guid>
+      <description>&lt;p&gt;The SVRIMG webpage provides a &amp;ldquo;one stop shop&amp;rdquo; for over 500,000 data rich, geospatial, radar reflectivity images centered on high-impact weather events. These images have consistent dimensions and intensity values on a grid with relatively low spatial distortion over the Conterminous United States. So, they are perfect for training and validating machine learning models. Crowd-sourced labels will provide a consistent dataset on which to test model performance. We also plan to provide pre-trained models, either generated from unlabeled (GAN) or labeled images. The goal is to create a &amp;ldquo;model zoo&amp;rdquo; for a variety of applications and to promote competition to create the best model.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

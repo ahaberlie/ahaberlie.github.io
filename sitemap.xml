@@ -1,356 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/publication-type/0/</loc>
-    <lastmod>2020-06-24T09:25:23-05:00</lastmod>
+    <loc>ahaberlie.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication-type/2/</loc>
+    <lastmod>2021-04-01T19:52:55-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/nws-cwa-1/</loc>
+    <lastmod>2021-04-01T19:52:55-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication_types/</loc>
+    <lastmod>2021-04-01T19:52:55-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/</loc>
+    <lastmod>2021-04-01T19:52:55-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/svrimg-1/</loc>
+    <lastmod>2021-01-01T19:52:43-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/pper-bams/</loc>
+    <lastmod>2020-08-01T19:52:25-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/project/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/tag/radar-severe-weather/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/project/svrimg/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication-type/0/</loc>
+    <lastmod>2020-06-01T19:52:33-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/snow-nclim/</loc>
+    <lastmod>2020-06-01T19:52:33-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/qlcs-haz/</loc>
+    <lastmod>2019-12-01T19:52:16-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/mcs-climo/</loc>
+    <lastmod>2019-03-01T19:52:07-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/slides/example_old/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/mcs-models/</loc>
+    <lastmod>2019-02-01T19:51:59-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/mcs-meth-2/</loc>
+    <lastmod>2018-01-01T19:51:44-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/mcs-meth-1/</loc>
+    <lastmod>2018-01-01T19:51:41-05:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/resv-tstorm/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/drive-blind/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/urban-tstorm/</loc>
+    <lastmod>2014-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/publication/trop-corn/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>ahaberlie.github.io/admin/</loc>
   </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-06-24T09:25:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-06-24T09:25:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/test/</loc>
-    <lastmod>2020-06-24T09:25:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/high-impact-weather/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/machine-learning/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/mcs/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/mesoscale-convective-systems/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/snow/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/storm-tracking/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.-m.-haberlie/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/climate-change/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/hydroclimate/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/future-snow-storms/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/snow/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/v.-a.-gensini/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/w.-s.-ashley/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/forecasting/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/hail/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/p.-t.-marsh/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/pper-severe-weather/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/severe-convective-storms/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/severe-convective-storms/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/tornado/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/wind/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/qlcs-climo/</loc>
-    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j.-strohm/</loc>
-    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/mesoscale-convective-systems/</loc>
-    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/qlcs/</loc>
-    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/mcs-climo/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/hydroclimatology/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/mcs-downscaled-repr/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/mcs-tracking-application/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/mcs-segmentation-classification/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.-j.-fultz/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/ci/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/regional-thunderstorm-climatology/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reservoirs/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s.-m.-eagan/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/reservoirs-thunderstorm-initiation/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/thunderstorms/</loc>
-    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a.-haberlie/</loc>
-    <lastmod>2015-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d.-dziubla/</loc>
-    <lastmod>2015-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fog-driving-hazards/</loc>
-    <lastmod>2015-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dust/</loc>
-    <lastmod>2015-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/fog/</loc>
-    <lastmod>2015-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s.-strader/</loc>
-    <lastmod>2015-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/transportation/</loc>
-    <lastmod>2015-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/vehicles/</loc>
-    <lastmod>2015-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/t.-j.-pingel/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/urbanization-thunderstorm-initiation/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/urbanization/</loc>
-    <lastmod>2015-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/regional-thunderstorms/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/agriculture/</loc>
-    <lastmod>2014-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/tropical-rain-corn-belt/</loc>
-    <lastmod>2014-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d.-changnon/</loc>
-    <lastmod>2014-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/drought/</loc>
-    <lastmod>2014-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/k.-gale/</loc>
-    <lastmod>2014-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m.-tannura/</loc>
-    <lastmod>2014-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/tropical-system-rainfall/</loc>
-    <lastmod>2014-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/tropical-systems/</loc>
-    <lastmod>2014-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alex-haberlie/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/land-use-/-land-cover/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
 </urlset>
