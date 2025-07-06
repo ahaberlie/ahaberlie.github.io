@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geography, Northern Illinois University, 2018
+* M.S. in Geography, Northern Illinois University, 2014
+* B.S. in Computer Science, University of Wisconsin - Platteville, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2021 - Present: Assistant Professor
+  * Northern Illinois University
+  * Department of Earth, Atmosphere and Environment
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2018 - May 2021: Assistant Professor
+  * Louisiana State University
+  * Department of Geography and Anthropology
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +46,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Climate Science Emphasis Coordinator
+* AMS Student Chapter Faculty Advisor
