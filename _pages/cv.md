@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Abbreviated CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -32,19 +32,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
+* Unidata Users Committee Member
 * Climate Science Emphasis Coordinator
 * AMS Student Chapter Faculty Advisor
